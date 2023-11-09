@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN=luffstein@gmail.com;RSVP=TRUE:mailto:luffstein@gmail.com
+CLASS:PUBLIC
+CREATED:20231109T222349Z
+DESCRIPTION:dxfdg\n\nbnvbnvnb\n\nvbnvbnvnbv\n\n\n\n \n\n \n\n \n\n \n\n \n\
+	n \n\n \n\n \n\n\n\n
+DTEND;TZID="Eastern Standard Time":20231109T180000
+DTSTAMP:20231109T222349Z
+DTSTART;TZID="Eastern Standard Time":20231109T173000
+LAST-MODIFIED:20231109T222026Z
+ORGANIZER;CN=luffstein@gmail.com:mailto:luffstein@gmail.com
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-ca:
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000010FF95803113DA01000000000000000
+	010000000D4AE30F6E612AB4FA988C98E74D36F63
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Co
+	ntent-Type content="text/html\; charset=us-ascii"><meta name=Generator con
+	tent="Microsoft Word 15 (filtered medium)"><!--[if !mso]><style>v\\:* {beh
+	avior:url(#default#VML)\;}\no\\:* {behavior:url(#default#VML)\;}\nw\\:* {b
+	ehavior:url(#default#VML)\;}\n.shape {behavior:url(#default#VML)\;}\n</sty
+	le><![endif]--><style><!--\n/* Font Definitions */\n@font-face\n	{font-fam
+	ily:"Cambria Math"\;\n	panose-1:2 4 5 3 5 4 6 3 2 4\;}\n@font-face\n	{font
+	-family:Calibri\;\n	panose-1:2 15 5 2 2 2 4 3 2 4\;}\n/* Style Definitions
+	 */\np.MsoNormal\, li.MsoNormal\, div.MsoNormal\n	{margin:0cm\;\n	font-siz
+	e:12.0pt\;\n	font-family:"Calibri"\,sans-serif\;\n	mso-ligatures:standardc
+	ontextual\;\n	mso-fareast-language:EN-US\;}\nspan.EmailStyle18\n	{mso-styl
+	e-type:personal-compose\;}\n.MsoChpDefault\n	{mso-style-type:export-only\;
+	\n	font-size:10.0pt\;\n	mso-ligatures:none\;}\n@page WordSection1\n	{size:
+	612.0pt 792.0pt\;\n	margin:72.0pt 72.0pt 72.0pt 72.0pt\;}\ndiv.WordSection
+	1\n	{page:WordSection1\;}\n--></style><!--[if gte mso 9]><xml>\n<o:shapede
+	faults v:ext="edit" spidmax="1026" />\n</xml><![endif]--><!--[if gte mso 9
+	]><xml>\n<o:shapelayout v:ext="edit">\n<o:idmap v:ext="edit" data="1" />\n
+	</o:shapelayout></xml><![endif]--></head><body lang=EN-CA link="#0563C1" v
+	link="#954F72" style='word-wrap:break-word'><div class=WordSection1><table
+	 class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 style='border-c
+	ollapse:collapse'><tr><td width=125 valign=top style='width:93.5pt\;border
+	:solid windowtext 1.0pt\;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><
+	span style='font-size:11.0pt'>dxfdg<o:p></o:p></span></p></td><td width=12
+	5 valign=top style='width:93.5pt\;border:solid windowtext 1.0pt\;border-le
+	ft:none\;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font
+	-size:11.0pt'>bnvbnvnb<o:p></o:p></span></p></td><td width=125 valign=top 
+	style='width:93.5pt\;border:solid windowtext 1.0pt\;border-left:none\;padd
+	ing:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:11.0pt'
+	>vbnvbnvnbv<o:p></o:p></span></p></td><td width=125 valign=top style='widt
+	h:93.5pt\;border:solid windowtext 1.0pt\;border-left:none\;padding:0cm 5.4
+	pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:11.0pt\;mso-ligatu
+	res:none'><img width=266 height=355 style='width:2.7708in\;height:3.6979in
+	' id="Picture_x0020_3" src="cid:image001.jpg@01DA1331.7F723F90"></span><sp
+	an style='font-size:11.0pt'><o:p></o:p></span></p></td><td width=125 valig
+	n=top style='width:93.5pt\;border:solid windowtext 1.0pt\;border-left:none
+	\;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:1
+	1.0pt'><o:p>&nbsp\;</o:p></span></p></td></tr><tr><td width=125 valign=top
+	 style='width:93.5pt\;border:solid windowtext 1.0pt\;border-top:none\;padd
+	ing:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:11.0pt'
+	><o:p>&nbsp\;</o:p></span></p></td><td width=125 valign=top style='width:9
+	3.5pt\;border-top:none\;border-left:none\;border-bottom:solid windowtext 1
+	.0pt\;border-right:solid windowtext 1.0pt\;padding:0cm 5.4pt 0cm 5.4pt'><p
+	 class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp\;</o:p></span><
+	/p></td><td width=125 valign=top style='width:93.5pt\;border-top:none\;bor
+	der-left:none\;border-bottom:solid windowtext 1.0pt\;border-right:solid wi
+	ndowtext 1.0pt\;padding:0cm 5.4pt 0cm 5.4pt'><p class=MsoNormal><span styl
+	e='font-size:11.0pt'><o:p>&nbsp\;</o:p></span></p></td><td width=125 valig
+	n=top style='width:93.5pt\;border-top:none\;border-left:none\;border-botto
+	m:solid windowtext 1.0pt\;border-right:solid windowtext 1.0pt\;padding:0cm
+	 5.4pt 0cm 5.4pt'><p class=MsoNormal><span style='font-size:11.0pt'><o:p>&
+	nbsp\;</o:p></span></p></td><td width=125 valign=top style='width:93.5pt\;
+	border-top:none\;border-left:none\;border-bottom:solid windowtext 1.0pt\;b
+	order-right:solid windowtext 1.0pt\;padding:0cm 5.4pt 0cm 5.4pt'><p class=
+	MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp\;</o:p></span></p></td
+	></tr></table><p class=MsoNormal><span style='font-size:11.0pt'><o:p>&nbsp
+	\;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt'><o:p>
+	&nbsp\;</o:p></span></p><p class=MsoNormal><span style='font-size:11.0pt\;
+	mso-ligatures:none'><img width=266 height=355 style='width:2.7708in\;heigh
+	t:3.6979in' id="Picture_x0020_4" src="cid:image001.jpg@01DA1331.7F723F90">
+	</span><span style='font-size:11.0pt'><o:p></o:p></span></p></div></body><
+	/html>
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
